@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Youssef Reda
-- 👀 I’m interested in Android development
+- 👀 I’m interested in Data Analysis, Image Processing, and Deep Learning.
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Android Projects
+- 💞️ I’m looking to collaborate on Image Processing, and Deep Learning, or any data related projects.
 - 📫 You can reach me at yokareda10@gmail.com or instgram yo_2f_ 
 
 <!---
