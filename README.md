@@ -10,13 +10,13 @@
   - **[Recommendations with IBM](https://github.com/youssefreda02/Recommendations-with-IBM):** Implementing collaborative filtering and matrix factorization for a recommendation system.
   - **[Starbucks Capstone Challenge](https://github.com/youssefreda02/Starbucks-Capstone-Challenge):** Analyzing promotional strategies and their impact on customer decision-making, deployed with **Streamlit**.
 - 🧩 **Skills:**  
-  - **Programming:** Python (pandas, NumPy, TensorFlow, OpenCV), SQL, C, Dart, Java, Swift.
+  - **Programming:** Python, SQL, C, Java.
   - **Tools:** Jupyter, Git, Android Studio, Xcode, Firebase.
-  - **Data Science:** Machine Learning, NLP, ETL, Deep Learning, Time Series Analysis, Recommendation Systems.
+  - **AI:** Prompt Engineering, NLP, ML, ETL, Deep Learning, Time Series Analysis, Recommendation Systems.
   - **Languages:** English (IELTS 7.0), Arabic (native).
 
 - 💬 **Open to Collaborate On:**  
-  - Image Processing, Deep Learning, NLP, or any data-related projects.
+  - Automated systems that require AI, Image Processing, Deep Learning, NLP, or any AI or data-related projects.
 
 - 📫 **Reach Out:**  
   - 📧 Email: yokareda10@gmail.com  
