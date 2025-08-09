@@ -1,9 +1,9 @@
-# 👋 Hi, I’m Youssef Reda
-
-- 🎓 **Recent Graduate** in Electronics & Communication Engineering from Alexandria University, mentored by Valeo for my graduation project on enhanced autonomous automotive safety through facial and awareness recognition.
-- 🌱 **Data Scientist** with a passion for Data Analysis, Image Processing, Deep Learning, and building impactful data-driven solutions.
-- 👀 **Currently focusing on:** Advanced machine learning techniques, NLP, Time Series Analysis, and Recommendation Systems.
-- 💼 **Recent Projects:**  
+# Hi, I’m Youssef Reda
+-  **AI Engineer** with a passion for Automation, Image Processing, Deep Learning, and building impactful data-driven solutions.
+-  **Currently Working in [Andalusia](https://andalusiagroup.net/):** AI, Automation, NLP, Data Engineering.
+- 🎓 **Graduate** in Electronics & Communication Engineering from Alexandria University, mentored by Valeo for my graduation project on enhanced autonomous automotive safety through facial and awareness recognition.
+- 💼 **Recent Projects:**
+  - **El Abd Patisserie:** A project for a well-known patisserie with over 3.3 million social media followers, developed to automate replies to comments and private messages for a specific contest.
   - **[SO-Dev-Survey24](https://github.com/youssefreda02/SO-Dev-Survey24):** Analysis of Stack Overflow's 2024 Developer Survey, focusing on Remote Work, salaries, and AI adoption.
       [![Blog Post](https://img.shields.io/badge/Blog-Read%20Now-blue)](https://medium.com/@yokareda10/remote-vs-onsite-this-is-what-2024-data-is-telling-us-dc6422e1148f)
   - **[NLP ETL & Flask Web App](https://github.com/youssefreda02/Disaster-Response-Pipeline):** A disaster response classification project with a machine learning pipeline for text processing and multi-class classification.
