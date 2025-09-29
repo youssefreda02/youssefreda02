@@ -1,7 +1,7 @@
  # Hi, I'm Youssef Reda
   - **AI Engineer** with a passion for Automation, Image Processing, Deep Learning, and building impactful
   data-driven solutions.
-  - **Currently Working in [Andalusia](https://andalusiagroup.net/):** AI, Automation, NLP, Data Engineering.
+  - **Currently Working in [51Talk](https://en.51talk.com/):** AI, Automation, NLP, Data Engineering.
   - 🎓 **Graduate** in Electronics & Communication Engineering from Alexandria University, mentored by Valeo for my
   graduation project on enhanced autonomous automotive safety through facial and awareness recognition.
 
